@@ -1,11 +1,11 @@
 {
   "name": "stream",
-  "version": "0.0.'",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --watch index.js"
   },
   "keywords": [],
   "author": "",
